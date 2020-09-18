@@ -25,12 +25,12 @@ text for such image.
  ---
  # Status:
  ## Task 1 Completion:
- -[x] Hover image.
- -[x] Empty Frame Fill.
- -[x] Text Modification.
+ - [x] Hover image.
+ - [x] Empty Frame Fill.
+ - [x] Text Modification.
  
  ## Task 2 Completion:
- -[ ] Link API to App.
- -[ ] Display User Details pulled from API.
- -[ ] Search Function.
- -[ ] Pleasing UI/GUI Design.
+ - [ ] Link API to App.
+ - [ ] Display User Details pulled from API.
+ - [ ] Search Function.
+ - [ ] Pleasing UI/GUI Design.
