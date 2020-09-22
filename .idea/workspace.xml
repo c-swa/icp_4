@@ -21,9 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="68fe0013-a7c8-4d15-80fc-a0d1631e9ea4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubUserFinder/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/GitHubUserFinder/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubUserFinder/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/GitHubUserFinder/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitHubUserFinder/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/GitHubUserFinder/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
       <updated>1600400430042</updated>
       <workItem from="1600400431239" duration="2918000" />
       <workItem from="1600628606056" duration="34000" />
-      <workItem from="1600737382484" duration="3551000" />
+      <workItem from="1600737382484" duration="3735000" />
     </task>
     <servers />
   </component>
