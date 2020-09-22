@@ -25,12 +25,19 @@ text for such image.
  ---
  # Status:
  ## Task 1 Completion:
- -[x] Hover image.
- -[x] Empty Frame Fill.
- -[x] Text Modification.
+ - [x] Hover image.
+ - [x] Empty Frame Fill.
+ - [x] Text Modification.
  
  ## Task 2 Completion:
- -[ ] Link API to App.
- -[ ] Display User Details pulled from API.
- -[ ] Search Function.
- -[ ] Pleasing UI/GUI Design.
+ - [x] Link API to App.
+ - [x] Display User Details pulled from API.
+ - [x] Search Function.
+ - [x] Pleasing UI/GUI Design.
+ 
+ ## Summary
+ While for Task one, I'm rather happy with how it turned out: Task 2 is a slightly different story.
+ I had spent a little too much time trying to figure out exactly how the API would return data, 
+ that I overthought how to do it. Rather, it wound up being quite simple. I'm also not particularly
+ pleased with the design of the web page of Task 2, it's at least passable. The UI is usable, and
+ easily understood.
